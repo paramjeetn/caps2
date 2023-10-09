@@ -1,0 +1,33 @@
+body{
+   background-color: lightyellow;
+   
+}
+
+.resume{
+    color:white;
+    text-decoration: none;
+    
+    
+        
+      
+}
+body > div > h1{
+    color: #66bfbf;
+    font-size: 7rem;
+    margin: 50px auto 0 auto;
+    font-family: "Sacramento", cursive;
+}
+.below-paramjeet{
+    margin-top:25px;
+    font-size: 2.3rem;
+    font-family: "Sacramento", cursive;
+}
+
+.skill{
+    font-size:2.5rem ;
+}
+
+
+.web-text{
+    color:black
+}
